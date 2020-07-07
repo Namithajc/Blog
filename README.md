@@ -1,2 +1,2 @@
 # Blog
-Blog where people can post their stories,edit and publish them.Created using php as back-end and Html and 
+ A User space which allows users to Post,Edit and Publish their stories.
